@@ -6,7 +6,7 @@ In this project, we blur a person's face from either a live video stream or a pi
 
 We first need to import all the necessary packages for our project to work: 
 
-```swift
+```python
 from pyimagefinder.face_blurring import anonymize_face_pixelate
 from pyimagefinder.face_blurring import anonymize_face_simple
 from imutils.video import VideoStream
